@@ -23,3 +23,15 @@ sample_directory/
 Führe das Skript nun für diesen Ordner aus:
 
 python file_extension_analyzer.py /path/to/sample_directory
+
+Die Ausgabe würde dann wie folgt aussehen:
+
+Dateiendung | Anzahl
+---------------------
+.jpg        | 1
+.png        | 1
+.pdf        | 1
+.txt        | 1
+
+
+Ziel ist es, sich leicht Übersicht über große Ordner zu verschaffen. In zukünftigen Versionen werde ich weitere Features verbauen.
