@@ -12,7 +12,9 @@ python file_extension_analyzer.py /path/to/your/directory
 
 Das Skript analysiert den angegebenen Ordner und gibt eine Tabelle mit Dateiendungen und der Anzahl der entsprechenden Dateien aus.
 
+
 Beispiel
+
 Angenommen, du hast einen Ordner mit folgendem Inhalt:
 
 sample_directory/
@@ -22,9 +24,11 @@ sample_directory/
 |-- notes.txt
 
 Führe das Skript für diesen Ordner aus:
+
 python file_extension_analyzer.py /path/to/sample_directory
 
 Die Ausgabe wäre:
+
 Dateiendung | Anzahl
 ---------------------
 .jpg        | 1
