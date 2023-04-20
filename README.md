@@ -23,8 +23,8 @@ sample_directory/ enthält:
 
 Dann würde das Script wie folgt aufgerufen werden: python file_extension_analyzer.py /path/to/sample_directory
 Die Ausgabe würde dann ergeben:
-.jpg | 2
-.png | 3
-.pdf | 1
-.txt | 3
+- .jpg | 2
+- .png | 3
+- .pdf | 1
+- .txt | 3
 
