@@ -26,7 +26,7 @@ python file_extension_analyzer.py /path/to/sample_directory
 
 Die Ausgabe würde dann wie folgt aussehen:
 
-Dateiendung | Anzahl
+.Dateiendung | Anzahl
 ---------------------
 .jpg        | 1
 .png        | 1
