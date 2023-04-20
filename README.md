@@ -35,3 +35,5 @@ Dateiendung | Anzahl
 .png        | 1
 .pdf        | 1
 .txt        | 1
+
+In zukünftigen Versionen werde ich weitere Features verbauen.
