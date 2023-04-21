@@ -5,7 +5,7 @@ Der File Extension Analyzer ist ein einfach zu verwendendes Python-Skript, das e
 ## Anforderungen
 - Python 3.6 oder höher
 
-##Verwendung
+## Verwendung
 - Führe das Script "file_extension_analyzer.py" aus indem Du den gewünschten Ordnerpfad als Argument übergibts:
 - Das Skript analysiert den angegebenen Ordner und gibt eine Tabelle mit Dateiendungen und der Anzahl der entsprechenden Dateien aus.
 
@@ -30,9 +30,11 @@ python file_extension_analyzer.py /path/to/sample_directory
 ```
 
 Die Ausgabe würde dann ergeben:
-- Dateiendung | Anzahl
-- .jpg        | 2
-- .png        | 3
-- .pdf        | 1
-- .txt        | 3
+````
+Dateiendung | Anzahl
+.jpg        | 2
+.png        | 3
+.pdf        | 1
+.txt        | 3
+````
 
